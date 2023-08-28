@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @OverloadedStudioTech
-- 👀 I’m interested Game Development
+- 👀 I’m interested in Game Development
+- 🕒 16 y.o
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on Godot Engine
 - 📫 How to reach me luca.zani@lucazani.com
